@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="frame.TesteTemp">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="CardLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="60" y="56" width="314" height="462"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="29048" class="javax.swing.JTextArea" binding="textArea1" default-binding="true">
+        <constraints>
+          <card name="Card1"/>
+        </constraints>
+        <properties/>
+      </component>
+    </children>
+  </grid>
+</form>

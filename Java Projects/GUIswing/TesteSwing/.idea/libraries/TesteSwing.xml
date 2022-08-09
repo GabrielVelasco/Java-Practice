@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TesteSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TesteSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,5 +1,4 @@
 opoipip 999999 ppopo@popo
-nom3 tel3 email3
-blabla 9199191 asdfasdf@asdf
+contact 2 987
 gabrie 1234 adsf@asd.com
-contact 2 987 blalba@email.com
+blabla 9199191 asdfasdf@asdf
